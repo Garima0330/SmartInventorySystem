@@ -1,31 +1,30 @@
-using Microsoft.OpenApi.Models;
+﻿using Microsoft.EntityFrameworkCore;
+using SmartInventory.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+// 1️⃣ Register services *before* building
 builder.Services.AddControllers();
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
 builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
 
-builder.Services.AddSwaggerGen(c =>
-{
-    c.SwaggerDoc("v1", new OpenApiInfo
-    {
-        Title = "SmartInventorySystem API",
-        Version = "v1"
-    });
-});
-
+// 2️⃣ Then build the app
 var app = builder.Build();
 
+// 3️⃣ Middleware configuration
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
-    app.UseSwaggerUI(c =>
-    {
-        c.SwaggerEndpoint("/swagger/v1/swagger.json", "SmartInventorySystem API v1");
-    });
+    app.UseSwaggerUI();
 }
 
+app.UseHttpsRedirection();
+
 app.UseAuthorization();
+
 app.MapControllers();
+
 app.Run();
