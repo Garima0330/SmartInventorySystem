@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project_Garima\\SmartInventorySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87B5ABD0-583A-4960-B7D0-530BFDA8D5F0}|SmartInventory.API\\SmartInventory.API.csproj|d:\\project_garima\\smartinventorysystem\\smartinventory.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B5ABD0-583A-4960-B7D0-530BFDA8D5F0}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B5ABD0-583A-4960-B7D0-530BFDA8D5F0}|SmartInventory.API\\SmartInventory.API.csproj|d:\\project_garima\\smartinventorysystem\\smartinventory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87B5ABD0-583A-4960-B7D0-530BFDA8D5F0}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DC41BD-B1C4-4B5E-B415-9F3BCDA1FA48}|SmartInventory.Data\\SmartInventory.Data.csproj|d:\\project_garima\\smartinventorysystem\\smartinventory.data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DC41BD-B1C4-4B5E-B415-9F3BCDA1FA48}|SmartInventory.Data\\SmartInventory.Data.csproj|solutionrelative:smartinventory.data\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DC41BD-B1C4-4B5E-B415-9F3BCDA1FA48}|SmartInventory.Data\\SmartInventory.Data.csproj|d:\\project_garima\\smartinventorysystem\\smartinventory.data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DC41BD-B1C4-4B5E-B415-9F3BCDA1FA48}|SmartInventory.Data\\SmartInventory.Data.csproj|solutionrelative:smartinventory.data\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DC41BD-B1C4-4B5E-B415-9F3BCDA1FA48}|SmartInventory.Data\\SmartInventory.Data.csproj|d:\\project_garima\\smartinventorysystem\\smartinventory.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DC41BD-B1C4-4B5E-B415-9F3BCDA1FA48}|SmartInventory.Data\\SmartInventory.Data.csproj|solutionrelative:smartinventory.data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DC41BD-B1C4-4B5E-B415-9F3BCDA1FA48}|SmartInventory.Data\\SmartInventory.Data.csproj|d:\\project_garima\\smartinventorysystem\\smartinventory.data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DC41BD-B1C4-4B5E-B415-9F3BCDA1FA48}|SmartInventory.Data\\SmartInventory.Data.csproj|solutionrelative:smartinventory.data\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DC41BD-B1C4-4B5E-B415-9F3BCDA1FA48}|SmartInventory.Data\\SmartInventory.Data.csproj|d:\\project_garima\\smartinventorysystem\\smartinventory.data\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DC41BD-B1C4-4B5E-B415-9F3BCDA1FA48}|SmartInventory.Data\\SmartInventory.Data.csproj|solutionrelative:smartinventory.data\\interfaces\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DC41BD-B1C4-4B5E-B415-9F3BCDA1FA48}|SmartInventory.Data\\SmartInventory.Data.csproj|d:\\project_garima\\smartinventorysystem\\smartinventory.data\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DC41BD-B1C4-4B5E-B415-9F3BCDA1FA48}|SmartInventory.Data\\SmartInventory.Data.csproj|solutionrelative:smartinventory.data\\interfaces\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87B5ABD0-583A-4960-B7D0-530BFDA8D5F0}|SmartInventory.API\\SmartInventory.API.csproj|d:\\project_garima\\smartinventorysystem\\smartinventory.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{87B5ABD0-583A-4960-B7D0-530BFDA8D5F0}|SmartInventory.API\\SmartInventory.API.csproj|solutionrelative:smartinventory.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5DC41BD-B1C4-4B5E-B415-9F3BCDA1FA48}|SmartInventory.Data\\SmartInventory.Data.csproj|d:\\project_garima\\smartinventorysystem\\smartinventory.data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5DC41BD-B1C4-4B5E-B415-9F3BCDA1FA48}|SmartInventory.Data\\SmartInventory.Data.csproj|solutionrelative:smartinventory.data\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Project_Garima\\SmartInventorySystem\\SmartInventory.Data\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "SmartInventory.Data\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\Project_Garima\\SmartInventorySystem\\SmartInventory.Data\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "SmartInventory.Data\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:46:25.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project_Garima\\SmartInventorySystem\\SmartInventory.API\\Program.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Program.cs",
+              "ToolTip": "D:\\Project_Garima\\SmartInventorySystem\\SmartInventory.API\\Program.cs",
+              "RelativeToolTip": "SmartInventory.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:30:26.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Project_Garima\\SmartInventorySystem\\SmartInventory.API\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SmartInventory.API\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Project_Garima\\SmartInventorySystem\\SmartInventory.API\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SmartInventory.API\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:44:19.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Project_Garima\\SmartInventorySystem\\SmartInventory.Data\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "SmartInventory.Data\\Repositories\\ProductRepository.cs",
+              "ToolTip": "D:\\Project_Garima\\SmartInventorySystem\\SmartInventory.Data\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "SmartInventory.Data\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:46:11.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Project_Garima\\SmartInventorySystem\\SmartInventory.Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SmartInventory.Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Project_Garima\\SmartInventorySystem\\SmartInventory.Data\\AppDbContext.cs",
+              "RelativeToolTip": "SmartInventory.Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:11:21.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Project_Garima\\SmartInventorySystem\\SmartInventory.Data\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "SmartInventory.Data\\Models\\Category.cs",
+              "ToolTip": "D:\\Project_Garima\\SmartInventorySystem\\SmartInventory.Data\\Models\\Category.cs",
+              "RelativeToolTip": "SmartInventory.Data\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:09:18.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\Project_Garima\\SmartInventorySystem\\SmartInventory.Data\\Interfaces\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "SmartInventory.Data\\Interfaces\\ICategoryRepository.cs",
+              "ToolTip": "D:\\Project_Garima\\SmartInventorySystem\\SmartInventory.Data\\Interfaces\\ICategoryRepository.cs",
+              "RelativeToolTip": "SmartInventory.Data\\Interfaces\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:45:33.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Project_Garima\\SmartInventorySystem\\SmartInventory.Data\\Interfaces\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "SmartInventory.Data\\Interfaces\\IProductRepository.cs",
+              "ToolTip": "D:\\Project_Garima\\SmartInventorySystem\\SmartInventory.Data\\Interfaces\\IProductRepository.cs",
+              "RelativeToolTip": "SmartInventory.Data\\Interfaces\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T11:45:15.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Project_Garima\\SmartInventorySystem\\SmartInventory.API\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartInventory.API\\appsettings.json",
+              "ToolTip": "D:\\Project_Garima\\SmartInventorySystem\\SmartInventory.API\\appsettings.json",
+              "RelativeToolTip": "SmartInventory.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-27T07:45:25.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Project_Garima\\SmartInventorySystem\\SmartInventory.Data\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SmartInventory.Data\\Models\\Product.cs",
+              "ToolTip": "D:\\Project_Garima\\SmartInventorySystem\\SmartInventory.Data\\Models\\Product.cs",
+              "RelativeToolTip": "SmartInventory.Data\\Models\\Product.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T12:08:47.485Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

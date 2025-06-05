@@ -1,0 +1,15 @@
+D:\Project_Garima\SmartInventorySystem\SmartInventory.Data\bin\Debug\net8.0\SmartInventory.Data.deps.json
+D:\Project_Garima\SmartInventorySystem\SmartInventory.Data\bin\Debug\net8.0\SmartInventory.Data.runtimeconfig.json
+D:\Project_Garima\SmartInventorySystem\SmartInventory.Data\bin\Debug\net8.0\SmartInventory.Data.dll
+D:\Project_Garima\SmartInventorySystem\SmartInventory.Data\bin\Debug\net8.0\SmartInventory.Data.pdb
+D:\Project_Garima\SmartInventorySystem\SmartInventory.Data\obj\Debug\net8.0\SmartInventory.Data.csproj.AssemblyReference.cache
+D:\Project_Garima\SmartInventorySystem\SmartInventory.Data\obj\Debug\net8.0\SmartInventory.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_Garima\SmartInventorySystem\SmartInventory.Data\obj\Debug\net8.0\SmartInventory.Data.AssemblyInfoInputs.cache
+D:\Project_Garima\SmartInventorySystem\SmartInventory.Data\obj\Debug\net8.0\SmartInventory.Data.AssemblyInfo.cs
+D:\Project_Garima\SmartInventorySystem\SmartInventory.Data\obj\Debug\net8.0\SmartInventory.Data.csproj.CoreCompileInputs.cache
+D:\Project_Garima\SmartInventorySystem\SmartInventory.Data\obj\Debug\net8.0\SmartInventory.Data.sourcelink.json
+D:\Project_Garima\SmartInventorySystem\SmartInventory.Data\obj\Debug\net8.0\SmartInventory.Data.dll
+D:\Project_Garima\SmartInventorySystem\SmartInventory.Data\obj\Debug\net8.0\refint\SmartInventory.Data.dll
+D:\Project_Garima\SmartInventorySystem\SmartInventory.Data\obj\Debug\net8.0\SmartInventory.Data.pdb
+D:\Project_Garima\SmartInventorySystem\SmartInventory.Data\obj\Debug\net8.0\SmartInventory.Data.genruntimeconfig.cache
+D:\Project_Garima\SmartInventorySystem\SmartInventory.Data\obj\Debug\net8.0\ref\SmartInventory.Data.dll
